@@ -66,4 +66,7 @@ SKILLS DEMONSTRATED
 ANALYSIS AND VISUALIZATION
 ---
 * What are the top selling products by revenue and how much was generated?
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/topselling_products.png)
+
+# RESULT
 ![](

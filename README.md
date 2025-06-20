@@ -43,4 +43,9 @@ SKILLS DEMONSTRATED
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/dept_tab_code.png)
 
 # RESULT
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/department_table_result.png)
+
+# PRODUCTS TABLE
+# QUERY
+
 ![](

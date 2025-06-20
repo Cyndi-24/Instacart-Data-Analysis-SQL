@@ -80,5 +80,8 @@ Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling pro
 * On which day of the week are chocolates sold the most?
 # Query
 
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/day_of_most_chocosale.png)
+
+# Result
 ![](
   

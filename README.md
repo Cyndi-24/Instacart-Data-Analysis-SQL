@@ -29,13 +29,18 @@ Questions
 SKILLS DEMONSTRATED
 ---
 * Database and Tables Creation; A new database was created for this project after which the individual tables for the data set were created using SQL queries in order of the independent table followed by the depent tables and the already cleaned dataset was imported into the database.
-# AISLE TABLE QUERY
+# AISLE TABLE
+# QUERY
 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_code.png)
 
 # RESULT
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_result.png)
 
-# DEPARTMENT QUERY
+# DEPARTMENT TABLE 
+# QUERY
 
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/dept_tab_code.png)
+
+# RESULT
 ![](

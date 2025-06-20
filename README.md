@@ -48,4 +48,7 @@ SKILLS DEMONSTRATED
 # PRODUCTS TABLE
 # QUERY
 
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/product_tab_code.png)
+
+# RESULT
 ![](

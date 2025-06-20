@@ -60,4 +60,8 @@ SKILLS DEMONSTRATED
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/orders_table_code.png)
 
 # RESULT
-![](
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/orders_table_result.png)
+
+---
+ANALYSIS AND VISUALIZATION
+---

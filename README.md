@@ -72,7 +72,7 @@ ANALYSIS AND VISUALIZATION
 
 # Result
 
-![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/topselling_products.png)
+![](
 
 # Insight
 Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling product with a revenue of $25,731?
@@ -83,5 +83,8 @@ Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling pro
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/day_of_most_chocosale.png)
 
 # Result
-![](
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_2.png)
+
+# Insight
+Chocolates are mostly sold on Sunday
   

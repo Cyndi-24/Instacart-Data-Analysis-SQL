@@ -1,5 +1,5 @@
-# INSTARCART ANALYSIS
-# BY OFOLEBE CYNDI
+# INSTACART ANALYSIS
+# By Ofolebe Cyndi
 ---
 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/instacart_logo.png)
@@ -65,10 +65,9 @@ SKILLS DEMONSTRATED
 ---
 DATA MODELLING
 ---
-
 This is the(ERD)-Entity_Relationship Diagram ,which is a structural representation of the database
 
-![](
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/ERD.png)
 
 ---
 ANALYSIS AND VISUALIZATION

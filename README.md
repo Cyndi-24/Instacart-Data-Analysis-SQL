@@ -66,7 +66,19 @@ SKILLS DEMONSTRATED
 ANALYSIS AND VISUALIZATION
 ---
 * What are the top selling products by revenue and how much was generated?
+# Query
+  
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/topselling_products.png)
 
-# RESULT
+# Result
+
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/topselling_products.png)
+
+# Insight
+Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling product with a revenue of $25,731?
+
+* On which day of the week are chocolates sold the most?
+# Query
+
 ![](
+  

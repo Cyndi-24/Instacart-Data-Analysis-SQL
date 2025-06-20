@@ -34,4 +34,8 @@ SKILLS DEMONSTRATED
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_code.png)
 
 # RESULT
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_result.png)
+
+# DEPARTMENT QUERY
+
 ![](

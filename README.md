@@ -63,6 +63,14 @@ SKILLS DEMONSTRATED
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/orders_table_result.png)
 
 ---
+DATA MODELLING
+---
+
+This is the(ERD)-Entity_Relationship Diagram ,which is a structural representation of the database
+
+![](
+
+---
 ANALYSIS AND VISUALIZATION
 ---
 * What are the top selling products by revenue and how much was generated?
@@ -72,7 +80,7 @@ ANALYSIS AND VISUALIZATION
 
 # Result
 
-![](
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_1.png)
 
 # Insight
 Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling product with a revenue of $25,731?

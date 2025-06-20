@@ -28,3 +28,6 @@ Questions
  ---
 SKILLS DEMONSTRATED
 ---
+* Database and Tables Creation; A new database was created for this project after which the individual tables for the data set were created using SQL queries in order of the independent table followed by the depent tables and the already cleaned dataset was imported into the database.
+# AISLE TABLE QUERY
+![](

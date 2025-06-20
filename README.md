@@ -65,3 +65,5 @@ SKILLS DEMONSTRATED
 ---
 ANALYSIS AND VISUALIZATION
 ---
+* What are the top selling products by revenue and how much was generated?
+![](

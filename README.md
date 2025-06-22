@@ -134,5 +134,17 @@ Alcohol is most bought at 15:00 hrs i.e 3pm
 
 *^What is the total revenue generated from breadsin Qtr 2 and Qtr 3 of 2016 from breads?
 # Query
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/revenue_from_breads.png)
+
+# Result
 ![](
+
+
+
+
+
+
+
+
+
 

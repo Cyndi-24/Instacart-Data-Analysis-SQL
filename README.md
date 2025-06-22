@@ -104,4 +104,7 @@ Chocolates are mostly sold on Sunday
 
 *Which year did Instarcart generate the most profit?
 # Query
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/year_with_most_revenue.png)
+
+# Result
 ![](

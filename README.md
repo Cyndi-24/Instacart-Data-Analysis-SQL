@@ -114,4 +114,7 @@ Instacart generated the most revenue on year 2020
 
 * How long has it been since the last cheese order?
 # Query
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_6.png)
+
+# Result
 ![](

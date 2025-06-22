@@ -124,4 +124,7 @@ The last cheese order was over 2years ago
 
 * What time of the day does alcohol sell the most?
 # Query
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/hour_of_most_alcohol_order.png)
+
+# Result
 ![](

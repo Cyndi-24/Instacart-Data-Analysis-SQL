@@ -97,5 +97,8 @@ Chocolates are mostly sold on Sunday
 
 * Do we have any department where we have over $15 milliion in revenue and what is the profit?
 # Query
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/departments_above_15million.png)
+
+# Result
 ![](
   

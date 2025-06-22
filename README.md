@@ -137,6 +137,10 @@ Alcohol is most bought at 15:00 hrs i.e 3pm
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/revenue_from_breads.png)
 
 # Result
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_8.png)
+
+* Which products do people buy at night(2020_2022)
+# Query
 ![](
 
 

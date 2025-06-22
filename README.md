@@ -102,10 +102,4 @@ Chocolates are mostly sold on Sunday
 # Result
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_3.png)
 
-* Is it true customers buy more alcoholic products on Xmas day 2019
-# Query
-![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/most_soldproduct_xmas_-2019.png)
 
-# Result
-![](
-  

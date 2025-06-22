@@ -114,7 +114,7 @@ Instacart generated the most revenue on year 2020
 
 * How long has it been since the last cheese order?
 # Query
-![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_6.png)
+![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/last_cheese_order.png)
 
 # Result
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_6.png)
@@ -129,10 +129,10 @@ The last cheese order was over 2years ago
 # Result
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_7.png)
 
-# Insights
+# Insight
 Alcohol is most bought at 15:00 hrs i.e 3pm
 
-*^What is the total revenue generated from breadsin Qtr 2 and Qtr 3 of 2016 from breads?
+* What is the total revenue generated from breadsin Qtr 2 and Qtr 3 of 2016 from breads?
 # Query
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/revenue_from_breads.png)
 

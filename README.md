@@ -94,4 +94,8 @@ Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling pro
 
 # Insight
 Chocolates are mostly sold on Sunday
+
+* Do we have any department where we have over $15 milliion in revenue and what is the profit?
+# Query
+![](
   

@@ -162,7 +162,7 @@ Tangerine & Short bread icecream"** Instacart can consider offering promotional 
 
 * Departments such as **"personal care,snacks and pantry"**  which generated more sales and higher revenue compared to others should be prioritized in sales ,marketing and resource allocation sine the generate significant profit.
 
-*  
+* The year **"2020"** generated the most revenue,this needs to be looked into  by rge sales and marketing team so thet same process and reults can be replicated across other years.
 
 
 

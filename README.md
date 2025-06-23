@@ -17,7 +17,6 @@ Questions
 * What are the top selling products by revenue and how much was generated?
 * On which days of the week are chocolate sold the most?
 * Do we have any department where we have over $15 million in revenue and what is the profit?
-* Is it true customers buy more alcoholic products on Xmas day 2019?
 * Which year did Instacart generate the most revenue?
 * How long has it been since the last cheese order?
 * What time of the day does alcohol sell the most?
@@ -159,9 +158,11 @@ RECOMMENDATION AND CONCLUSION
 * From the analyis top selling products are **"Delight Turkey Sausage Egg Whites & Cheese English Muffin,pain relief tablets,Vanilla
 Tangerine & Short bread icecream"** Instacart can consider offering promotional sales and discount in order to attract more customers and efforts should be made to ensure that these products are never in shortage or out of stocks
 
-* The last cheese order was over 2years ago,proper investigation needs to be done to find ou why,if its due to lack of awareness of its availability then proper advertisement needs to be done,or due to its price or the quality of the cheese products stocked in the grocery.
+* The last cheese order was over 2years ago,proper investigation needs to be done to find ou why,if its due to lack of awareness of its availability then proper advertisement needs to be done,or due to its price more afforable ones can be made available or the quality of the cheese products stocked in the grocery.
 
+* Departments such as **"personal care,snacks and pantry"**  which generated more sales and higher revenue compared to others should be prioritized in sales ,marketing and resource allocation sine the generate significant profit.
 
+*  
 
 
 

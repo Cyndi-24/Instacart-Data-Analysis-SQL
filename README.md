@@ -156,8 +156,10 @@ Alcohol is most bought at 15:00 hrs i.e 3pm
 ---
 RECOMMENDATION AND CONCLUSION
 ---
+* From the analyis top selling products are **"Delight Turkey Sausage Egg Whites & Cheese English Muffin,pain relief tablets,Vanilla
+Tangerine & Short bread icecream"** Instacart can consider offering promotional sales and discount in order to attract more customers and efforts should be made to ensure that these products are never in shortage or out of stocks
 
-
+* The last cheese order was over 2years ago,proper investigation needs to be done to find ou why,if its due to lack of awareness of its availability then proper advertisement needs to be done,or due to its price or the quality of the cheese products stocked in the grocery.
 
 
 

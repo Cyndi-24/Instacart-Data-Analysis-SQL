@@ -120,6 +120,7 @@ ANALYSIS AND VISUALIZATION
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/day_of_most_chocosale.png)
 
 # Result
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_2.png)
 
 * Finding: Chocolate products were purchased most frequently on Sunday.
@@ -129,30 +130,42 @@ ANALYSIS AND VISUALIZATION
 
 # Do we have any department where we have over $15 milliion in revenue and what is the profit?
 # Query
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/departments_above_15million.png)
 
 # Result
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_3.png)
+
+Finding: Seven departments exceeded $15 million in revenue: beverages, dairy & eggs, frozen, household, pantry, personal care, and snacks. Personal care performed highest, generating about $39.18M in revenue and $3.92M in profit, followed by snacks and pantry.
+
+Interpretation: Personal care, snacks, and pantry were particularly strong contributors, making them important departments to monitor for inventory availability, sales performance, and resource allocation.
 
 # Which year did Instarcart generate the most profit?
 # Query
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/year_with_most_revenue.png)
 
 # Result
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_5.png)
 
-# Insights
-Instacart generated the most revenue on year 2020
+Finding: Instacart generated its highest profit in 2020.
+
+Interpretation: 2020 was the strongest year for profitability, making it a useful reference point for investigating which products or purchasing patterns contributed to the better performance.
 
 # How long has it been since the last cheese order?
 # Query
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/last_cheese_order.png)
 
 # Result
+
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_6.png)
 
-# Insight
-The last cheese order was over 2years ago
+Finding: At the time the analysis was run, it had been over two years since the last recorded cheese order.
+
+Interpretation: The long gap suggests cheese had little or no recent purchasing activity in the available data and would be worth reviewing before making stocking decisions.
 
 # What time of the day does alcohol sell the most?
 # Query

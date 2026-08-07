@@ -62,6 +62,7 @@ The cleaned data was then imported into the corresponding PostgreSQL tables and 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_code.png)
 
  RESULT
+ 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/aisle_table_result.png)
 
 * DEPARTMENT TABLE 
@@ -71,6 +72,7 @@ The cleaned data was then imported into the corresponding PostgreSQL tables and 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/dept_tab_code.png)
 
   RESULT
+  
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/department_table_result.png)
 
 * PRODUCTS TABLE
@@ -88,6 +90,7 @@ The cleaned data was then imported into the corresponding PostgreSQL tables and 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/orders_table_code.png)
 
   RESULT
+  
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/orders_table_result.png)
 
 # Data Schema 

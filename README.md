@@ -111,8 +111,8 @@ ANALYSIS AND VISUALIZATION
 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_1.png)
 
-# Insight
-Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling product with a revenue of $25,731?
+* Finding: Delight Turkey Sausage Egg Whites & Cheese English Muffin generated the highest revenue at approximately $25,731.
+* Interpretation: This product was the strongest revenue contributor among the products analysed, making it an important item to monitor for availability and sales performance.
 
 # On which day of the week are chocolates sold the most?
 # Query
@@ -122,8 +122,10 @@ Delight Turkey Sausage Egg Whites & Cheese English Muffin is the top selling pro
 # Result
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/answer_2.png)
 
-# Insight
-Chocolates are mostly sold on Sunday
+* Finding: Chocolate products were purchased most frequently on Sunday.
+
+* Interpretation: Sunday appears to be the strongest day for chocolate demand, which could help guide stock availability and weekend promotional planning. 
+
 
 # Do we have any department where we have over $15 milliion in revenue and what is the profit?
 # Query

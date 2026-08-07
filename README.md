@@ -1,5 +1,4 @@
-# INSTACART ANALYSIS
-# By Ofolebe Cyndi
+# Instacart Retail Analysis Using SQL
 ---
 
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/instacart_logo.png)
@@ -7,7 +6,18 @@
 ---
 INTRODUCTION
 ----
-This is an American retail media and delivery company based in San Francisco Instacart, that operates a grocery delivery and pick-up service in the United States and Canada accessible via a website and mobile app.[It allows customers to order groceries, and alcohol where legal, from participating retailers with the shopping being done by a personal shopper, who picks, packs, and delivers the order within the customer's designated time frame.
+Instacart is an online grocery delivery and pickup platform that connects customers with participating retailers.
+
+This project uses Instacart retail data to explore product performance, purchasing behaviour, department performance and time-based ordering patterns using SQL.
+
+# Project Overview
+
+Retail data becomes more useful when it helps explain what customers are buying, when they are buying it, and which areas of the business are generating the most value.
+
+This project uses SQL to analyse Instacart transaction and product data across a series of business-focused questions. The analysis explores product demand, purchasing patterns, department performance, profitability, and changes in ordering behaviour over time.
+
+Rather than looking at each query as an isolated SQL exercise, the results are used to build a broader picture of customer purchasing activity and areas that could support merchandising, inventory, and sales decisions.
+
 
 ---
 PROBLEM STATEMENT

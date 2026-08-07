@@ -4,26 +4,22 @@
 ![](https://github.com/Cyndi-24/Instacart-Analysis/blob/main/Instarcart%20project%20sql/Instacart_images/instacart_logo.png)
 
 ---
-INTRODUCTION
-----
-Instacart is an online grocery delivery and pickup platform that connects customers with participating retailers.
-
-This project uses Instacart retail data to explore product performance, purchasing behaviour, department performance and time-based ordering patterns using SQL.
 
 # Project Overview
 
+Instacart is an online grocery delivery and pickup platform that connects customers with participating retailers.
 Retail data becomes more useful when it helps explain what customers are buying, when they are buying it, and which areas of the business are generating the most value.
 
-This project uses SQL to analyse Instacart transaction and product data across a series of business-focused questions. The analysis explores product demand, purchasing patterns, department performance, profitability, and changes in ordering behaviour over time.
+This project uses SQL to analyse Instacart transaction and product data across a series of business-focused questions. The analysis explores product demand, purchasing patterns, department performance, profitability, and changes in ordering behaviour over time.Rather than looking at each query as an isolated SQL exercise, the results are used to build a broader picture of customer purchasing activity and areas that could support merchandising, inventory, and sales decisions.
 
-Rather than looking at each query as an isolated SQL exercise, the results are used to build a broader picture of customer purchasing activity and areas that could support merchandising, inventory, and sales decisions.
+# Business Problem
 
+Instacart had transaction, product, aisle, department, and order data that could reveal useful patterns in customer purchasing behaviour and sales performance.The challenge was to turn these records into insights that could help identify high-performing products and departments, understand when customers were most active, and examine how purchasing behaviour changed across different products and time periods.
 
----
-PROBLEM STATEMENT
----
-With the help of fully functional SQL queries we will be answering various business questions which would help Instacart leverage on customer purchase data,order patterns and demographic information to identify trends and patterns  which will help to improve customer retention and satisfaction and in the long run improves business growth and revenue generation.
-Questions
+The analysis therefore focused on answering a set of SQL-based business questions around product demand, profitability, ordering patterns, and customer purchasing activity
+
+# Business Questions
+
 * What are the top selling products by revenue and how much was generated?
 * On which days of the week are chocolate sold the most?
 * Do we have any department where we have over $15 million in revenue and what is the profit?

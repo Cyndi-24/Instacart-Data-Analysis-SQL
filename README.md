@@ -234,7 +234,7 @@ Interpretation: Juice was a significant revenue-generating product group within 
 
 * Use 2020 profitability as a performance benchmark  when setting future commercial targets and evaluating whether later periods are delivering comparable returns.
 
- Limitations
+# Limitations
 
 - The analysis focuses on selected product, department, profitability, and purchasing-pattern questions rather than providing a complete assessment of Instacart's overall business performance.
   
